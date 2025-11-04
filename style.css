@@ -1,0 +1,474 @@
+.ota {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 50px;
+
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    display: flex;
+    gap: 10px;
+}
+
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap:10px;
+}
+
+
+.box3 {
+    width: 115px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 15px;
+    display: flex;
+}
+
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 10px;
+    display: flex;
+}
+
+
+.box6 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+.box7 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.box8 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 15px;
+    display: flex;
+    
+
+}
+
+
+.box9 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 10px;
+    display: flex;
+}
+
+
+.box10 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 10px;
+    display: flex;
+    align-items: end;
+    
+}
+
+
+.box11 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+
+
+.box12 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    gap: 17px;
+    display: flex;
+
+}
+
+.e{
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.e{
+    
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.e{
+    
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+ 
+.d{
+  width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.d{
+    
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.d{
+    
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+
+.c{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+ 
+.c1 {
+       width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+    margin-bottom: 80px;
+}
+    
+      
+
+
+.d{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.d{
+   
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.d{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.k{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.k{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.k{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.x{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.x{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.x{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.q{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.q{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.q{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.p{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.p{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.p{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.l{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.l{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.l{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dh{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dh{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dh{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dl{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dl{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dl{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.do{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.do{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.do{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+.dk{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dk{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+    
+.dk{
+     
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+    
+  
